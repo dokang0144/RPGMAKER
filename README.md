@@ -25,23 +25,21 @@ RPG MAKER를 실행한후 프로젝트를 새로 만든 화면입니다.<br><br>
 새로운 맵을 작성한후 텐트 내부도 꾸며줍니다.<br>
 ![image](https://user-images.githubusercontent.com/88234731/185751104-589f1cc8-778f-44e9-acb8-0144621c5e7d.png)<br><br>
 이제 텐트 밖에서 텐트 안으로 들어오는 이벤트를 만들어 봅시다.<br><br>
-![image](https://user-images.githubusercontent.com/88234731/185751257-abe01cf8-cf1f-416d-9702-07339bb7db65.png)<br>
-이벤트 편집을 클릭후 텐트 입구를 더블클릭 해줍니다.<br><br>
-![image](https://user-images.githubusercontent.com/88234731/185751472-91120379-f24c-4fee-9049-c93e4dbb2cfe.png)<br>
-그러면 이벤트 만들기 창이 뜨는데<br><br>
+이벤트 편집을 클릭후 텐트 입구를 더블클릭 해줍니다.<br>
+![image](https://user-images.githubusercontent.com/88234731/185751257-abe01cf8-cf1f-416d-9702-07339bb7db65.png)<br><br>
+그러면 이벤트 만들기 창이 뜨는데<br>
+![image](https://user-images.githubusercontent.com/88234731/185751472-91120379-f24c-4fee-9049-c93e4dbb2cfe.png)<br><br>
 
 플레이어가 텐트입구에 닿으면 텐트안으로 보내야 하므로<br><br>
-![image](https://user-images.githubusercontent.com/88234731/185751677-be5fd7b8-c2b9-47b2-b651-aff117fe05d6.png)<br>
-시작 조건을 플레이어가 접촉으로 체크해주시고<br><br>
-
-![image](https://user-images.githubusercontent.com/88234731/185751764-38f20b44-63b3-4d85-90f3-7d30a18a6d1c.png)<br>
-마름모(◆) 모양을 눌러 실행 내용 창으로 이동합니다.<br><br>
-
+시작 조건을 플레이어가 접촉으로 체크해주시고<br>
+![image](https://user-images.githubusercontent.com/88234731/185751677-be5fd7b8-c2b9-47b2-b651-aff117fe05d6.png)<br><br>
+마름모(◆) 모양을 눌러 실행 내용 창으로 이동합니다.<br>
+![image](https://user-images.githubusercontent.com/88234731/185751764-38f20b44-63b3-4d85-90f3-7d30a18a6d1c.png)<br><br>
 그런다음 장소 이동 버튼을 누른후 직접 지정을 클릭하여 텐트 내부의 입구로 클릭해줍니다.<br>
-![image](https://user-images.githubusercontent.com/88234731/185752027-692d7658-97fe-45c8-a594-4f40903d8245.png)
-
-
-
+![image](https://user-images.githubusercontent.com/88234731/185752027-692d7658-97fe-45c8-a594-4f40903d8245.png)<br><br>
+텐트 안에서도 바깥으로 나갈수 있도록 이벤트를 작성해줍니다.<br>
+![image](https://user-images.githubusercontent.com/88234731/185752692-c51a43cd-df3f-4458-8a9e-f4e3860f591c.png)<br><br>
+그리고 저장후 게임을 실행해보면
 
 
 

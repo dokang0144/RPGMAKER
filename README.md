@@ -35,11 +35,17 @@ RPG MAKER를 실행한후 프로젝트를 새로 만든 화면입니다.<br><br>
 ![image](https://user-images.githubusercontent.com/88234731/185751677-be5fd7b8-c2b9-47b2-b651-aff117fe05d6.png)<br><br>
 마름모(◆) 모양을 눌러 실행 내용 창으로 이동합니다.<br>
 ![image](https://user-images.githubusercontent.com/88234731/185751764-38f20b44-63b3-4d85-90f3-7d30a18a6d1c.png)<br><br>
-그런다음 장소 이동 버튼을 누른후 직접 지정을 클릭하여 텐트 내부의 입구로 클릭해줍니다.<br>
+실행 내용 창에서 2번을 누른후 장소 이동 버튼을 누른다음<br>
+![image](https://user-images.githubusercontent.com/88234731/185789118-a223594f-84dd-4261-a92a-efee5226a779.png)<br><br>
+직접 지정을 클릭하여<br>
+![image](https://user-images.githubusercontent.com/88234731/185788972-c0e2ec88-b2a1-4178-9468-ba65f9f8cc09.png)<br><br>
+텐트 내부의 입구로 클릭해줍니다.<br>
 ![image](https://user-images.githubusercontent.com/88234731/185752027-692d7658-97fe-45c8-a594-4f40903d8245.png)<br><br>
 텐트 안에서도 바깥으로 나갈수 있도록 이벤트를 작성해줍니다.<br>
 ![image](https://user-images.githubusercontent.com/88234731/185752692-c51a43cd-df3f-4458-8a9e-f4e3860f591c.png)<br><br>
-그리고 저장후 게임을 실행해보면
+그리고 저장후 게임을 실행해보면<br>
+![1](https://user-images.githubusercontent.com/88234731/185788849-3e239c1f-5e17-4f24-8d62-011cc8d4dcc8.gif)
+
 
 
 

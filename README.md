@@ -44,7 +44,14 @@ RPG MAKER를 실행한후 프로젝트를 새로 만든 화면입니다.<br><br>
 텐트 안에서도 바깥으로 나갈수 있도록 이벤트를 작성해줍니다.<br>
 ![image](https://user-images.githubusercontent.com/88234731/185752692-c51a43cd-df3f-4458-8a9e-f4e3860f591c.png)<br><br>
 그리고 저장후 게임을 실행해보면<br>
-![1](https://user-images.githubusercontent.com/88234731/185788849-3e239c1f-5e17-4f24-8d62-011cc8d4dcc8.gif)
+![1](https://user-images.githubusercontent.com/88234731/185788849-3e239c1f-5e17-4f24-8d62-011cc8d4dcc8.gif)<br><br>
+이렇게 간단하게 게임을 만들수 있습니다. 그리고 여러가지 이벤트를 작성하여 다양한 게임도 만들수 있습니다.
+## 성소오니
+저는 '아오오니'라는 게임을 언팩하여 대사와 이벤트를 수정하고 '성소오니'를 만들었습니다.<br>
+![image](https://user-images.githubusercontent.com/88234731/193286018-b1fa124d-ecd7-46e4-9261-2be8bce0701b.png)<br><br>
+[![Video Label](https://user-images.githubusercontent.com/88234731/193291269-d6f549d7-2b26-4ad7-8926-0b55c566a518.gif)](https://youtu.be/3oIgSRp19t8)<br>
+↑ ↑ ↑ 게임 플레이 유튜브 링크 (gif를 클릭해주세요)
+
 
 
 
